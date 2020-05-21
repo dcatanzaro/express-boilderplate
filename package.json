@@ -1,0 +1,14 @@
+{
+    "name": "expressboilderplate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "routes.js",
+    "scripts": {
+        "dev": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
